@@ -1,0 +1,29 @@
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csprojAssemblyReference.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.pdb
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.dll
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.pdb
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csproj.CoreCompileInputs.cache
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.dll
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.pdb
+C:\Users\100519062\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.dll
+C:\Users\100519062\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\100519062\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\100519062\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.dll
+C:\Users\100519062\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.pdb
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csprojAssemblyReference.cache
+E:\Pulpit\AssignmentBaseProject\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.dll
+E:\Pulpit\AssignmentBaseProject\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.pdb
+E:\Pulpit\AssignmentBaseProject\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csprojAssemblyReference.cache
+E:\Pulpit\AssignmentBaseProject\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csproj.CoreCompileInputs.cache
+E:\Pulpit\AssignmentBaseProject\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.dll
+E:\Pulpit\AssignmentBaseProject\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.pdb
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.dll
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.pdb
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csprojAssemblyReference.cache
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csproj.CoreCompileInputs.cache
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.dll
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.pdb

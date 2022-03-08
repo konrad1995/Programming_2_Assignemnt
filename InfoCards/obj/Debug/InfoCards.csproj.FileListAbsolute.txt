@@ -1,0 +1,28 @@
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\InfoCards.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\InfoCards.pdb
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards\obj\Debug\InfoCards.csprojAssemblyReference.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards\obj\Debug\InfoCards.csproj.CoreCompileInputs.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards\obj\Debug\InfoCards.csproj.CopyComplete
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards\obj\Debug\InfoCards.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards\obj\Debug\InfoCards.pdb
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\Assignment\bin\Debug\InfoCards.dll
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\Assignment\bin\Debug\InfoCards.pdb
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\InfoCards\obj\Debug\InfoCards.csprojAssemblyReference.cache
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\InfoCards\obj\Debug\InfoCards.csproj.CoreCompileInputs.cache
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\InfoCards\obj\Debug\InfoCards.csproj.CopyComplete
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\InfoCards\obj\Debug\InfoCards.dll
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\InfoCards\obj\Debug\InfoCards.pdb
+C:\Users\100519062\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\Assignment\bin\Debug\InfoCards.dll
+C:\Users\100519062\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\Assignment\bin\Debug\InfoCards.pdb
+C:\Users\100519062\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\InfoCards\obj\Debug\InfoCards.csprojAssemblyReference.cache
+C:\Users\100519062\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\InfoCards\obj\Debug\InfoCards.csproj.CoreCompileInputs.cache
+C:\Users\100519062\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\InfoCards\obj\Debug\InfoCards.csproj.CopyComplete
+C:\Users\100519062\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\InfoCards\obj\Debug\InfoCards.dll
+C:\Users\100519062\OneDrive - University of Derby\repos\AssignmentBaseProject\Assignment\InfoCards\obj\Debug\InfoCards.pdb
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\Assignment\bin\Debug\InfoCards.dll
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\Assignment\bin\Debug\InfoCards.pdb
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\InfoCards\obj\Debug\InfoCards.csprojAssemblyReference.cache
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\InfoCards\obj\Debug\InfoCards.csproj.CoreCompileInputs.cache
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\InfoCards\obj\Debug\InfoCards.csproj.CopyComplete
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\InfoCards\obj\Debug\InfoCards.dll
+E:\Pulpit\Uni\Drive\OneDrive - University of Derby\Programming 2 Assignemnt Latest Versiomn\Assignment\InfoCards\obj\Debug\InfoCards.pdb
